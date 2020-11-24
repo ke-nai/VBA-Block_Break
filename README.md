@@ -1,5 +1,6 @@
 # VBA-Block_Break
 ![Block_Break](https://user-images.githubusercontent.com/66747535/100057761-6bce6980-2e6b-11eb-848b-7374994721ec.gif)
+엑셀에서 VBA 매크로를 통해 실행할 수 있는 블럭 깨기 게임이다.
 
 ## 적용법
 1. VBA 편집창에 들어간다.
